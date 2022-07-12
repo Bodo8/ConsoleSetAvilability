@@ -18,7 +18,7 @@ using System;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AktualizatorProductManag2Click
+namespace ConsoleSetAvilability
 {
     public class DependencyInjection
     {
